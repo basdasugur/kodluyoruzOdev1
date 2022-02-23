@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hayalleri Kodluyoruz</title>
+</head>
+<body>
+<h1>Uğur Başdaş</h1>
+<h2>Hakkımda</h2>
+
+<h3>Eğitim Bilgilerim</h3>
+<p>Önlisans Muhasebe ve Vergi Uygulamaları</p>
+<p>Lisan Malliye
+<p>Lisan Felsefe 2. sınıf</p>
+<p>Tezli Yüksek Lisans İşletme tez döneminde bıraktım :) </p>
+<p>Polonya Erasmus -  Uluslar Arası İlişkiler Bir Dönem</p>
+
+<h3>Hobilerim</h3>
+<p>Müzisyenim, yazılımla ilgileniyorum ama hobi olmaktan çıkıp işim olsun istiyorum</p>
+<p>Hayalım dijital göçebe olmak</p>
+<p>Meksika'ya gitmek istiyorum</p>
+
+<h3>İş Bilgilerim</h3>
+<p>Zabıt Katibiyim</p>
+</body>
+</html>
